@@ -1,0 +1,53 @@
+{
+    "date": "2017-01-12T22:46:50Z",
+    "tags": [
+        "motorbike",
+        "spec"
+    ],
+    "url": "spec\/ducati\/2009\/ducati-streetfighter-s",
+    "title": "Naked bike Ducati Streetfighter S",
+    "categories": "Naked bike",
+    "brands": "ducati",
+    "years": "2009",
+    "spec": [
+        {
+            "Model": "Ducati Streetfighter S",
+            "Year": "2009",
+            "Category": "Naked bike",
+            "Rating": "76.7 out of 100. Show full rating and compare with other bikes",
+            "Displacement, ccm": "1099.00",
+            "Displacement, cubic inches": "67.06",
+            "Engine type": "V2, four-stroke",
+            "Power, HP": "155.00",
+            "Power at RPM": "9500",
+            "Compression": "12.4:1",
+            "Bore x stroke, mm": "104.0 x 64.9",
+            "Bore x stroke, inches": "4.1 x 2.6",
+            "Valves per cylinder": "4",
+            "Fuel system": "Injection. Marelli electronic fuel injection,  elliptical throttle bodies.?",
+            "Fuel control": "Desmodromic valve control",
+            "Cooling system": "Liquid",
+            "Gearbox": "6-speed",
+            "Clutch": "Dry multiplate",
+            "Exhaust system": "Lightweight 2-1-2 system with catalytic converter and 2 lambda probes. Twin stainless steel and titanium mufflers?",
+            "Frame type": "Tubular steel Trellis in ALS 450",
+            "Rake (fork angle)": "25.9?",
+            "Front suspension": "Ohlins upside-down fork",
+            "Rear suspension": "Progressive linkage with fully adjustable Ohlins monoshock",
+            "Front brakes": "Double disc. 4-piston calipers",
+            "Front brakes diameter, mm": "330",
+            "Front brakes diameter, inches": "13.0",
+            "Rear brakes": "Single disc",
+            "Rear brakes diameter, mm": "245",
+            "Rear brakes diameter, inches": "9.6",
+            "Wheelbase, mm": "1.476",
+            "Wheelbase, inches": "58.1",
+            "Color options": "Red\/black, Pearl white\/black",
+            "Starter": "Electric",
+            "Insurance costs": "Get estimated US insurance cost with a quote from Allstate Motorcycle Insurance",
+            "Parts finder": "Chaparral provides online schematics & OEM parts for the US.   Motorcycle Superstore provides an easy-to-use parts finder. Ships to the US, Canada, UK and Australia.MotoSport.com ships motorcycle parts and accessories to most countries.    Sixity.com has low prices and free shipping on ATV and motorcycle parts to the US. Also check out our overview of motorcycle webshops at Bikez.info",
+            "Loans, tests, etc": "Search the web for dealers, loan costs, tests, customizing, etc",
+            "Related bikes": "List related bikes for comparison of specs"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "date": "2017-01-12T22:46:50Z",
+    "tags": [
+        "motorbike",
+        "spec"
+    ],
+    "url": "spec\/cf\/2010\/cf-moto-jet-max",
+    "title": "Scooter CF Moto Jet Max",
+    "categories": "Scooter",
+    "brands": "cf",
+    "years": "2010",
+    "spec": [
+        {
+            "Model": "CF Moto Jet Max",
+            "Year": "2010",
+            "Category": "Scooter",
+            "Rating": "67.6 out of 100. Show full rating and compare with other bikes",
+            "Displacement, ccm": "249.00",
+            "Displacement, cubic inches": "15.19",
+            "Engine type": "Single cylinder, four-stroke",
+            "Power, HP": "22.13",
+            "Power at RPM": "8000",
+            "Compression": "10.5:1",
+            "Fuel system": "Injection",
+            "Fuel control": "Single Overhead Cams (SOHC)",
+            "Lubrication system": "Pressure and splash",
+            "Cooling system": "Liquid",
+            "Gearbox": "Automatic",
+            "Transmission type,final drive": "Belt",
+            "Front brakes": "Single disc",
+            "Rear brakes": "Single disc",
+            "Dry weight, kg": "135.0",
+            "Dry weight, pounds": "297.6",
+            "Power\/weight ratio, HP\/kg": "0.1639",
+            "Overall height, mm": "1.186",
+            "Overall height, inches": "46.7",
+            "Overall length, mm": "2.034",
+            "Overall length, inches": "80.1",
+            "Ground clearance, mm": "140",
+            "Ground clearance, inches": "5.5",
+            "Color options": "White, silver, gray, balck",
+            "Starter": "Electric",
+            "Comments": "Also called CF250T-64",
+            "Insurance costs": "Get estimated US insurance cost with a quote from Allstate Motorcycle Insurance",
+            "Parts finder": "Chaparral provides online schematics & OEM parts for the US.   Motorcycle Superstore provides an easy-to-use parts finder. Ships to the US, Canada, UK and Australia.MotoSport.com ships motorcycle parts and accessories to most countries.    Sixity.com has low prices and free shipping on ATV and motorcycle parts to the US. Also check out our overview of motorcycle webshops at Bikez.info",
+            "Loans, tests, etc": "Search the web for dealers, loan costs, tests, customizing, etc",
+            "Related bikes": "List related bikes for comparison of specs"
+        }
+    ]
+}

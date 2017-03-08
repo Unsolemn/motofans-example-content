@@ -1,0 +1,53 @@
+{
+    "date": "2017-01-12T22:46:50Z",
+    "tags": [
+        "motorbike",
+        "spec"
+    ],
+    "url": "spec\/chang-jiang\/2011\/chang-jiang-jawa-353-replica",
+    "title": "Classic Chang-Jiang Jawa 353 Replica",
+    "categories": "Classic",
+    "brands": "chang-jiang",
+    "years": "2011",
+    "spec": [
+        {
+            "Model": "Chang-Jiang Jawa 353 Replica",
+            "Year": "2011",
+            "Category": "Classic",
+            "Rating": "45.2 out of 100. Show full rating and compare with other bikes",
+            "Displacement, ccm": "248.50",
+            "Displacement, cubic inches": "15.16",
+            "Engine type": "Single cylinder, two-stroke",
+            "Power, HP": "11.80",
+            "Power at RPM": "4600",
+            "Top speed, km\/h": "90.0",
+            "Top speed, mph": "55.9",
+            "Compression": "7.2:1",
+            "Fuel system": "Carburettor",
+            "Cooling system": "Air",
+            "Gearbox": "4-speed",
+            "Greenhouse gases": "69.6 CO2 g\/km. (CO2 - Carbon dioxide emission)",
+            "Front brakes": "Expanding brake (drum brake)",
+            "Rear brakes": "Expanding brake (drum brake)",
+            "Seat": "Dual seat",
+            "Dry weight, kg": "135.0",
+            "Dry weight, pounds": "297.6",
+            "Power\/weight ratio, HP\/kg": "0.0874",
+            "Overall height, mm": "1.000",
+            "Overall height, inches": "39.4",
+            "Overall length, mm": "2.400",
+            "Overall length, inches": "94.5",
+            "Overall width, mm": "750",
+            "Overall width, inches": "29.5",
+            "Fuel capacity, litres": "24.00",
+            "Fuel capacity, gallons": "6.34",
+            "Color options": "Red",
+            "Starter": "Kick",
+            "Comments": "Chinese copy of 1950 Jawa 353 bike",
+            "Insurance costs": "Get estimated US insurance cost with a quote from Allstate Motorcycle Insurance",
+            "Parts finder": "Chaparral provides online schematics & OEM parts for the US.   Motorcycle Superstore provides an easy-to-use parts finder. Ships to the US, Canada, UK and Australia.MotoSport.com ships motorcycle parts and accessories to most countries.    Sixity.com has low prices and free shipping on ATV and motorcycle parts to the US. Also check out our overview of motorcycle webshops at Bikez.info",
+            "Loans, tests, etc": "Search the web for dealers, loan costs, tests, customizing, etc",
+            "Related bikes": "List related bikes for comparison of specs"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "date": "2017-01-12T22:46:50Z",
+    "tags": [
+        "motorbike",
+        "spec"
+    ],
+    "url": "spec\/ch\/2008\/ch-racing-wxe-50",
+    "title": "Enduro \/ offroad CH Racing WXE 50",
+    "categories": "Enduro-offroad",
+    "brands": "ch",
+    "years": "2008",
+    "spec": [
+        {
+            "Model": "CH Racing WXE 50",
+            "Year": "2008",
+            "Category": "Enduro \/ offroad",
+            "Rating": "Do you know this bike?Click here to rate it. We miss 2 votes to show the rating",
+            "Displacement, ccm": "49.70",
+            "Displacement, cubic inches": "3.03",
+            "Engine type": "Single cylinder, four-stroke",
+            "Top speed, km\/h": "45.0",
+            "Top speed, mph": "28.0",
+            "Fuel system": "Carburettor. PHBN 16",
+            "Cooling system": "Liquid",
+            "Front suspension": "MARZOCCHI upside-down with single hydraulic shock absorber - black color",
+            "Rear suspension": "Progressive unitrac type single hydraulic shock absorber",
+            "Front tyre": "80\/90-21",
+            "Rear tyre": "110\/80-18",
+            "Front brakes": "Single disc",
+            "Rear brakes": "Single disc",
+            "Dry weight, kg": "92.0",
+            "Dry weight, pounds": "202.8",
+            "Seat height, mm": "920",
+            "Seat height, inches": "36.2",
+            "Overall length, mm": "2.050",
+            "Overall length, inches": "80.7",
+            "Ground clearance, mm": "340",
+            "Ground clearance, inches": "13.4",
+            "Wheelbase, mm": "1.375",
+            "Wheelbase, inches": "54.1",
+            "Color options": "Red\/white, blue\/yellow",
+            "Starter": "Kick",
+            "Insurance costs": "Get estimated US insurance cost with a quote from Allstate Motorcycle Insurance",
+            "Parts finder": "Chaparral provides online schematics & OEM parts for the US.   Motorcycle Superstore provides an easy-to-use parts finder. Ships to the US, Canada, UK and Australia.MotoSport.com ships motorcycle parts and accessories to most countries.    Sixity.com has low prices and free shipping on ATV and motorcycle parts to the US. Also check out our overview of motorcycle webshops at Bikez.info",
+            "Dirt-bike parts": "Dirt-bike parts and gear available from MotoSport.com. Ships to the US, Canada, the UK, most EU countries, Australia, India, etc",
+            "Customizing": "Also adventure and dirt-bike parts at CruiserCustomizing.com",
+            "Loans, tests, etc": "Search the web for dealers, loan costs, tests, customizing, etc",
+            "Related bikes": "List related bikes for comparison of specs"
+        }
+    ]
+}

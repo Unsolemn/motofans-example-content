@@ -1,0 +1,53 @@
+{
+    "date": "2017-01-12T22:46:50Z",
+    "tags": [
+        "motorbike",
+        "spec"
+    ],
+    "url": "spec\/diamo\/2009\/diamo-lightning-110",
+    "title": "ATV Diamo Lightning 110",
+    "categories": "ATV",
+    "brands": "diamo",
+    "years": "2009",
+    "spec": [
+        {
+            "Model": "Diamo Lightning 110",
+            "Year": "2009",
+            "Category": "ATV",
+            "Rating": "Do you know this bike?Click here to rate it. We miss 1 vote to show the rating",
+            "Price as new (MSRP)": "US$ 1896.   Prices depend on country, taxes, accessories, etc",
+            "Displacement, ccm": "107.00",
+            "Displacement, cubic inches": "6.53",
+            "Engine type": "Single cylinder, four-stroke",
+            "Power, HP": "5.50",
+            "Power at RPM": "8000",
+            "Fuel system": "Carburettor",
+            "Cooling system": "Air",
+            "Gearbox": "4-speed",
+            "Transmission type,final drive": "Shaft drive (cardan)",
+            "Front suspension": "Monoshock",
+            "Rear suspension": "Dual shock",
+            "Front tyre": "19\/7-8",
+            "Rear tyre": "18\/10-8",
+            "Front brakes": "Expanding brake (drum brake)",
+            "Rear brakes": "Expanding brake (drum brake)",
+            "Dry weight, kg": "117.0",
+            "Dry weight, pounds": "258.0",
+            "Power\/weight ratio, HP\/kg": "0.0470",
+            "Seat height, mm": "671",
+            "Seat height, inches": "26.4",
+            "Wheelbase, mm": "1.041",
+            "Wheelbase, inches": "41.0",
+            "Fuel capacity, litres": "7.57",
+            "Fuel capacity, gallons": "2.00",
+            "Color options": "Blue, red, green pink",
+            "Starter": "Electric",
+            "Comments": "Gearbox with reverse",
+            "Insurance costs": "Get estimated US insurance cost with a quote from Allstate Motorcycle Insurance",
+            "Parts finder": "Chaparral provides online schematics & OEM parts for the US.   Motorcycle Superstore provides an easy-to-use parts finder. Ships to the US, Canada, UK and Australia.MotoSport.com ships motorcycle parts and accessories to most countries.    Sixity.com has low prices and free shipping on ATV and motorcycle parts to the US. Also check out our overview of motorcycle webshops at Bikez.info",
+            "ATV parts": "Sixity.com sells ATV parts with free shipping to the US",
+            "Loans, tests, etc": "Search the web for dealers, loan costs, tests, customizing, etc",
+            "Related bikes": "List related bikes for comparison of specs"
+        }
+    ]
+}

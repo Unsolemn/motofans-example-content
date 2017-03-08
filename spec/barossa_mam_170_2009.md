@@ -1,0 +1,50 @@
+{
+    "date": "2017-01-12T22:46:50Z",
+    "tags": [
+        "motorbike",
+        "spec"
+    ],
+    "url": "spec\/barossa\/2009\/barossa-mam-170",
+    "title": "ATV Barossa MAM 170",
+    "categories": "ATV",
+    "brands": "barossa",
+    "years": "2009",
+    "spec": [
+        {
+            "Model": "Barossa MAM 170",
+            "Year": "2009",
+            "Category": "ATV",
+            "Rating": "Do you know this bike?Click here to rate it. We miss 2 votes to show the rating",
+            "Displacement, ccm": "164.50",
+            "Displacement, cubic inches": "10.04",
+            "Engine type": "Twin, four-stroke",
+            "Bore x stroke, mm": "65.0 x 49.5",
+            "Bore x stroke, inches": "2.6 x 1.9",
+            "Cooling system": "Oil & air",
+            "Gearbox": "5-speed",
+            "Transmission type,final drive": "Chain",
+            "Front suspension": "Double wishbone",
+            "Rear suspension": "Single swing",
+            "Front tyre": "21\/7-10",
+            "Rear tyre": "21\/10-8",
+            "Front brakes": "Single disc",
+            "Rear brakes": "Single disc",
+            "Dry weight, kg": "170.0",
+            "Dry weight, pounds": "374.8",
+            "Overall length, mm": "1.000",
+            "Overall length, inches": "39.4",
+            "Overall width, mm": "1.040",
+            "Overall width, inches": "40.9",
+            "Wheelbase, mm": "1.635",
+            "Wheelbase, inches": "64.4",
+            "Color options": "Black, red, yellow, blue",
+            "Starter": "Electric",
+            "Comments": "ATV made in Taiwan",
+            "Insurance costs": "Get estimated US insurance cost with a quote from Allstate Motorcycle Insurance",
+            "Parts finder": "Chaparral provides online schematics & OEM parts for the US.   Motorcycle Superstore provides an easy-to-use parts finder. Ships to the US, Canada, UK and Australia.MotoSport.com ships motorcycle parts and accessories to most countries.    Sixity.com has low prices and free shipping on ATV and motorcycle parts to the US. Also check out our overview of motorcycle webshops at Bikez.info",
+            "ATV parts": "Sixity.com sells ATV parts with free shipping to the US",
+            "Loans, tests, etc": "Search the web for dealers, loan costs, tests, customizing, etc",
+            "Related bikes": "List related bikes for comparison of specs"
+        }
+    ]
+}

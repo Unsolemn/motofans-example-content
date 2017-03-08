@@ -1,0 +1,52 @@
+{
+    "date": "2017-01-12T22:46:50Z",
+    "tags": [
+        "motorbike",
+        "spec"
+    ],
+    "url": "spec\/boss\/2005\/boss-hoss-bhc-3-502",
+    "title": "Custom \/ cruiser Boss Hoss BHC-3 502",
+    "categories": "Custom-cruiser",
+    "brands": "boss",
+    "years": "2005",
+    "spec": [
+        {
+            "Model": "Boss Hoss BHC-3 502",
+            "Year": "2005",
+            "Category": "Custom \/ cruiser",
+            "Rating": "77.3 out of 100. Show full rating and compare with other bikes",
+            "Displacement, ccm": "8200.00",
+            "Displacement, cubic inches": "500.36",
+            "Engine type": "V8, four-stroke",
+            "Power, HP": "502.00",
+            "Compression": "9.6:1",
+            "Fuel system": "Carburettor. Quadrajet 850cfm",
+            "Cooling system": "Liquid",
+            "Transmission type,final drive": "Belt",
+            "Exhaust system": "2.5? with dual mufflers",
+            "Rake (fork angle)": "33.0?",
+            "Front suspension": "63mm inverted forks, adj. preload 2.5? travel",
+            "Rear suspension": "Dual 13.0? coilover shocks, adj. preload",
+            "Front tyre": "130\/90-16, 3.50x16.0",
+            "Rear tyre": "230\/60-7.0x15.0",
+            "Dry weight, kg": "589.7",
+            "Dry weight, pounds": "1,300.0",
+            "Power\/weight ratio, HP\/kg": "0.8513",
+            "Seat height, mm": "724",
+            "Seat height, inches": "28.5",
+            "Overall width, mm": "787",
+            "Overall width, inches": "31.0",
+            "Ground clearance, mm": "114",
+            "Ground clearance, inches": "4.5",
+            "Wheelbase, mm": "2.083",
+            "Wheelbase, inches": "82.0",
+            "Fuel capacity, litres": "32.17",
+            "Fuel capacity, gallons": "8.50",
+            "Insurance costs": "Get estimated US insurance cost with a quote from Allstate Motorcycle Insurance",
+            "Parts finder": "Chaparral provides online schematics & OEM parts for the US.   Motorcycle Superstore provides an easy-to-use parts finder. Ships to the US, Canada, UK and Australia.MotoSport.com ships motorcycle parts and accessories to most countries.    Sixity.com has low prices and free shipping on ATV and motorcycle parts to the US. Also check out our overview of motorcycle webshops at Bikez.info",
+            "Customizing": "Aftermarked parts at CruiserCustomizing.com",
+            "Loans, tests, etc": "Search the web for dealers, loan costs, tests, customizing, etc",
+            "Related bikes": "List related bikes for comparison of specs"
+        }
+    ]
+}

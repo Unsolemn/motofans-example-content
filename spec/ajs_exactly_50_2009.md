@@ -1,0 +1,53 @@
+{
+    "date": "2017-01-12T22:46:50Z",
+    "tags": [
+        "motorbike",
+        "spec"
+    ],
+    "url": "spec\/ajs\/2009\/ajs-exactly-50",
+    "title": "Scooter AJS Exactly 50",
+    "categories": "Scooter",
+    "brands": "ajs",
+    "years": "2009",
+    "spec": [
+        {
+            "Model": "AJS Exactly 50",
+            "Year": "2009",
+            "Category": "Scooter",
+            "Rating": "67.3 out of 100. Show full rating and compare with other bikes",
+            "Displacement, ccm": "40.00",
+            "Displacement, cubic inches": "2.44",
+            "Engine type": "Single cylinder, two-stroke",
+            "Power, HP": "2.54",
+            "Power at RPM": "6000",
+            "Bore x stroke, mm": "40.0 x 39.2",
+            "Bore x stroke, inches": "1.6 x 1.5",
+            "Fuel system": "Carburettor",
+            "Ignition": "Coil CDI",
+            "Cooling system": "Air",
+            "Gearbox": "Automatic",
+            "Transmission type,final drive": "Belt",
+            "Front suspension": "Telefork",
+            "Rear suspension": "Single  shocks",
+            "Front tyre": "120\/70-12",
+            "Rear tyre": "130\/70-12",
+            "Front brakes": "Single disc",
+            "Rear brakes": "Expanding brake (drum brake)",
+            "Dry weight, kg": "87.0",
+            "Dry weight, pounds": "191.8",
+            "Power\/weight ratio, HP\/kg": "0.0292",
+            "Seat height, mm": "775",
+            "Seat height, inches": "30.5",
+            "Wheelbase, mm": "1.290",
+            "Wheelbase, inches": "50.8",
+            "Fuel capacity, litres": "4.70",
+            "Fuel capacity, gallons": "1.24",
+            "Starter": "Electric & kick",
+            "Comments": "Chinese made bike sold in the UK",
+            "Insurance costs": "Get estimated US insurance cost with a quote from Allstate Motorcycle Insurance",
+            "Parts finder": "Chaparral provides online schematics & OEM parts for the US.   Motorcycle Superstore provides an easy-to-use parts finder. Ships to the US, Canada, UK and Australia.MotoSport.com ships motorcycle parts and accessories to most countries.    Sixity.com has low prices and free shipping on ATV and motorcycle parts to the US. Also check out our overview of motorcycle webshops at Bikez.info",
+            "Loans, tests, etc": "Search the web for dealers, loan costs, tests, customizing, etc",
+            "Related bikes": "List related bikes for comparison of specs"
+        }
+    ]
+}

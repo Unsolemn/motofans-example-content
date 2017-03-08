@@ -1,0 +1,53 @@
+{
+    "date": "2017-01-12T22:46:50Z",
+    "tags": [
+        "motorbike",
+        "spec"
+    ],
+    "url": "spec\/bsa\/1955\/bsa-a7-shoting-star",
+    "title": "Naked bike BSA A7 Shoting Star",
+    "categories": "Naked bike",
+    "brands": "bsa",
+    "years": "1955",
+    "spec": [
+        {
+            "Model": "BSA A7 Shoting Star",
+            "Year": "1955",
+            "Category": "Naked bike",
+            "Rating": "Do you know this bike?Click here to rate it. We miss 2 votes to show the rating",
+            "Displacement, ccm": "497.00",
+            "Displacement, cubic inches": "30.33",
+            "Engine type": "Twin, four-stroke",
+            "Power, HP": "19.70",
+            "Power at RPM": "6000",
+            "Top speed, km\/h": "168.0",
+            "Top speed, mph": "104.4",
+            "Compression": "6.6:1",
+            "Bore x stroke, mm": "66.0 x 72.6",
+            "Bore x stroke, inches": "2.6 x 2.9",
+            "Fuel system": "Carburettor",
+            "Ignition": "Lucas magneto",
+            "Cooling system": "Air",
+            "Clutch": "Wet multiplate",
+            "Frame type": "Single cradle",
+            "Front suspension": "Hydralic telescopic forks",
+            "Rear suspension": "Twin shock",
+            "Front tyre": "3.25-19",
+            "Rear tyre": "3.25-19",
+            "Front brakes": "Expanding brake (drum brake)",
+            "Rear brakes": "Expanding brake (drum brake)",
+            "Seat": "Dual seat",
+            "Dry weight, kg": "193.0",
+            "Dry weight, pounds": "425.5",
+            "Power\/weight ratio, HP\/kg": "0.1021",
+            "Overall length, mm": "2.180",
+            "Overall length, inches": "85.8",
+            "Wheelbase, mm": "1.391",
+            "Wheelbase, inches": "54.8",
+            "Fuel capacity, litres": "19.00",
+            "Fuel capacity, gallons": "5.02",
+            "Starter": "Kick",
+            "Related bikes": "List related bikes for comparison of specs"
+        }
+    ]
+}

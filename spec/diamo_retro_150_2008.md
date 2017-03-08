@@ -1,0 +1,50 @@
+{
+    "date": "2017-01-12T22:46:50Z",
+    "tags": [
+        "motorbike",
+        "spec"
+    ],
+    "url": "spec\/diamo\/2008\/diamo-retro-150",
+    "title": "Scooter Diamo Retro 150",
+    "categories": "Scooter",
+    "brands": "diamo",
+    "years": "2008",
+    "spec": [
+        {
+            "Model": "Diamo Retro 150",
+            "Year": "2008",
+            "Category": "Scooter",
+            "Rating": "59.6 out of 100. Show full rating and compare with other bikes",
+            "Price as new (MSRP)": "US$ 2195.   Prices depend on country, taxes, accessories, etc",
+            "Displacement, ccm": "150.00",
+            "Displacement, cubic inches": "9.15",
+            "Engine type": "Single cylinder, four-stroke",
+            "Power, HP": "10.00",
+            "Top speed, km\/h": "88.5",
+            "Top speed, mph": "55.0",
+            "Fuel system": "Carburettor",
+            "Cooling system": "Air",
+            "Gearbox": "Automatic",
+            "Transmission type,final drive": "Belt",
+            "Greenhouse gases": "69.8 CO2 g\/km. (CO2 - Carbon dioxide emission)",
+            "Front suspension": "Dual shock",
+            "Rear suspension": "Dual adjustable recing shocks",
+            "Front tyre": "3.50-10",
+            "Rear tyre": "3.50-10",
+            "Front brakes": "Double disc. ABS",
+            "Rear brakes": "Single disc. ABS",
+            "Seat height, mm": "737",
+            "Seat height, inches": "29.0",
+            "Wheelbase, mm": "1.270",
+            "Wheelbase, inches": "50.0",
+            "Fuel capacity, litres": "7.57",
+            "Fuel capacity, gallons": "2.00",
+            "Color options": "Red, orange, pink, cream, blue, metallic purple",
+            "Starter": "Electric & kick",
+            "Insurance costs": "Get estimated US insurance cost with a quote from Allstate Motorcycle Insurance",
+            "Parts finder": "Chaparral provides online schematics & OEM parts for the US.   Motorcycle Superstore provides an easy-to-use parts finder. Ships to the US, Canada, UK and Australia.MotoSport.com ships motorcycle parts and accessories to most countries.    Sixity.com has low prices and free shipping on ATV and motorcycle parts to the US. Also check out our overview of motorcycle webshops at Bikez.info",
+            "Loans, tests, etc": "Search the web for dealers, loan costs, tests, customizing, etc",
+            "Related bikes": "List related bikes for comparison of specs"
+        }
+    ]
+}
